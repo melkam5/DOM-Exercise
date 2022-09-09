@@ -1,0 +1,24 @@
+.main__root {
+    display : flex;
+    flex-direction : column ;
+}
+.main__root button {
+    width : 35px ;
+    height : 35px ;
+    margin : 0 5px 6px 0;
+}
+
+.main__root input {
+    height :30px ;
+    margin-right : 5px; 
+}
+
+.main__root-list {
+    margin : 5px 0 ;
+    display : flex ;
+    align-items : center;
+}
+
+button {
+    display : inline ;
+}
